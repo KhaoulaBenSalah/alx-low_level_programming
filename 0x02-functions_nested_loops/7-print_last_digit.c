@@ -1,3 +1,9 @@
+/*
+ * File: 2-print_alphabet_x10.c
+ * Auth: khawlabensalah
+ */
+
+#include "main.h"
 /**
  * print_last_digit - Prints the last digit of a number.
  * @n: The number in question.
