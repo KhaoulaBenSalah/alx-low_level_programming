@@ -2,7 +2,6 @@
  * File: 2-print_alphabet_x10.c
  * Auth: khawlabensalah
  */
-
 #include "main.h"
 /**
  * print_to_98 - Prints all natural numbers from input to 98,
